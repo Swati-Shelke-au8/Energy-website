@@ -1,0 +1,12 @@
+.footer-get-in-touch {
+  background-color: #ffffff;
+  color: #000000;
+  padding: 10px;
+  width: 150px;
+  border-radius: 25px;
+}
+.footerHeading {
+  p {
+    font-size: 24px;
+  }
+}

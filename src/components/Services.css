@@ -1,0 +1,65 @@
+.getInTouchBtn {
+  background-color: #00d47e;
+  border: none;
+  border-radius: 25px;
+  padding: 15px 10px;
+  color: #ffffff;
+  width: 150px;
+  display: block;
+  margin-bottom: 10rem;
+}
+
+.servicesHeading {
+  word-spacing: 4px;
+  margin-bottom: 1.5rem;
+  margin-top: 5rem;
+}
+
+.serviceCard {
+  border-radius: 10px;
+  width: 17rem;
+  margin-bottom: 2rem;
+  padding: 20px;
+}
+
+.card-id {
+  color: #ccc;
+  font-weight: 400;
+  margin-bottom: 1.5rem;
+}
+
+.card-text {
+  margin-top: 1.5rem;
+  text-decoration: underline;
+}
+
+.service-section {
+  display: flex;
+}
+
+.view-case-study {
+  background-color: #00d47e;
+  border: none;
+  border-radius: 25px;
+  padding: 10px;
+  color: #ffffff;
+  width: 190px;
+  display: block;
+  margin-bottom: 6rem;
+}
+
+.service-card-text {
+  text-align: start;
+  font-size: 24px;
+}
+
+.service-card-title {
+  margin-bottom: 1.5rem;
+  font-weight: 700;
+}
+
+.service-sign-card-text {
+  text-align: start;
+  font-size: 24px;
+  font-weight: 500;
+}

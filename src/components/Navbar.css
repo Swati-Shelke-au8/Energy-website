@@ -1,0 +1,26 @@
+.nav-get-in-touch-btn {
+  background-color: #00d47e;
+  border: none;
+  border-radius: 25px;
+  padding: 5px 10px;
+}
+.loginBtn {
+  border: 1px solid #ccc;
+  border-radius: 25px;
+  padding: 5px 10px;
+  margin-right: 15px;
+}
+
+#navbarNav {
+  justify-content: center;
+}
+.navbar {
+  padding: 10px 20px;
+}
+.nav-link {
+  color: #1e1e1e;
+}
+.navbar-brand {
+  font-weight: bold;
+  color: #28a745 !important;
+}
