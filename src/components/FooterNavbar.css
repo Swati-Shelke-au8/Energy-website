@@ -1,0 +1,29 @@
+#footerNavbarNav {
+  justify-content: center;
+  .nav-link {
+    color: #ffffff;
+  }
+}
+
+.footerNavbar {
+  margin-top: 5rem;
+  margin-bottom: 3rem;
+  .footerNavbarIcon {
+    font-weight: bold;
+    color: #ffffff !important;
+  }
+}
+.navbar {
+  padding: 10px 20px;
+}
+
+.instagram-icon,
+.linkedin-icon,
+.twitter-icon,
+.facebook-icon {
+  background-color: #1e1e1e;
+  border-radius: 50%;
+  height: 35px;
+  width: 35px;
+  margin-right: 0.8rem;
+}
