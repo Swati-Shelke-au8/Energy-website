@@ -4,8 +4,8 @@ import FooterNavbar from "./FooterNavbar";
 
 const Footer = () => {
   return (
-    <footer className="bg-dark text-white py-4 footer-section">
-      <div className="container">
+    <footer className="bg-dark text-white py-5 footer-section">
+      <div className="container" style={{ marginTop: "2rem" }}>
         <div className="row">
           <div className="col-sm-8">
             <h1 className="text-start footerHeading">

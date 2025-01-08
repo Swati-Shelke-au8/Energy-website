@@ -1,4 +1,41 @@
-.hero-section {
+/* .hero-section {
   background: url("hero-bg.jpg") center/cover no-repeat;
   color: white;
+} */
+
+.home-para {
+  font-size: 22px;
+}
+
+.homeHeading {
+  font-size: 45px;
+}
+
+.homeSubHeading {
+  font-size: 45px !important;
+}
+
+.home-section1 {
+  margin-top: 7rem;
+}
+
+.client-list {
+  height: 230px;
+  width: 230px;
+  border-radius: 50%;
+  background-color: #d3d7d9;
+
+  &:hover {
+    background-color: #ffffff;
+    border: 1px solid #d3d7d9;
+  }
+}
+
+.list-of-client {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-items: center;
+  justify-content: center;
+  margin: 5rem 2rem;
 }
